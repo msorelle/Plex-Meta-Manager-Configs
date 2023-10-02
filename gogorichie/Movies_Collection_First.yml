@@ -36,10 +36,11 @@ collections:
     plex_search:
       any:
         year:
-          - 2019
           - 2020
           - 2021
-    collection_order: release
+          - 2022
+          - 2023
+    collection_order: release.desc
     collection_mode: default
   IMDB Top 250:
     imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=25

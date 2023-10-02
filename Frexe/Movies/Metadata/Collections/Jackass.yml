@@ -40,7 +40,22 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     year: 2014
     url_poster: https://theposterdb.com/api/assets/171935
 
+  "Jackass Shark Week (2021)":
+    title: "Jackass Shark Week"
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/288505
+
   "Jackass Forever (2022)":
     title: "Jackass Forever"
     year: 2022
     url_poster: https://theposterdb.com/api/assets/171936
+
+  "Jackass 4.5 (2022)":
+    title: "Jackass 4.5"
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/238022
+
+  "Jackass Shark Week 2.0 (2022)":
+    title: "Jackass Shark Week 2.0"
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/259904
