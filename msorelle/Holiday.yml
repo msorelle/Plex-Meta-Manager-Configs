@@ -54,6 +54,7 @@ collections:
       #- 8091     # Alien Collection
     #tmdb_movie:
       #- 23437    # A Nightmare on Elm Street (2010)
+    url_poster: https://imgur.com/a/I5qcSLs
   Christmas Movies:
     template:
       name: Holiday
