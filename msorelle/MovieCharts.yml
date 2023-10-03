@@ -1,11 +1,11 @@
 ######################################################
 #                Chart Collections                   #
 ######################################################
-# templates:
-#   Chart:
-#     sort_title: +1_<<num>><<collection_name>>
-#     sync_mode: sync
-#     smart_label: random
+templates:
+  Chart:
+    sort_title: +1_<<num>><<collection_name>>
+    sync_mode: sync
+    smart_label: random
 #   Best of:
 #     trakt_list: https://trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-<<year>>
 #     sort_title: +1_Best of <<year>>
@@ -37,11 +37,11 @@
 #       url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short
 #       limit: 40
 #     summary: Popular Movies across the internet
-#   Top Rated:
-#     template: { name: Chart, num: 4 }
-#     imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250/
-#     tmdb_top_rated: 250
-#     summary: Top Rated Movies across the internet
+  Top Rated:
+    template: { name: Chart, num: 4 }
+    imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250/
+    tmdb_top_rated: 250
+    summary: Top Rated Movies across the internet
 #   Oscars:
 #     template: { name: Chart, num: 5 }
 #     imdb_list: https://www.imdb.com/search/title/?title_type=feature,documentary&groups=oscar_winner
