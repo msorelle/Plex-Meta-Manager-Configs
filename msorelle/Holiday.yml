@@ -58,9 +58,9 @@ collections:
       start_date: 12/01
       end_date: 12/31
     imdb_list: https://www.imdb.com/list/ls000096828/
-  New Year's Day Movies:
-    template:
-      name: Holiday
-      start_date: 12/26
-      end_date: 01/04
-    imdb_list: https://www.imdb.com/list/ls066838460/
+  # New Year's Day Movies:
+  #   template:
+  #     name: Holiday
+  #     start_date: 12/26
+  #     end_date: 01/04
+  #   imdb_list: https://www.imdb.com/list/ls066838460/
