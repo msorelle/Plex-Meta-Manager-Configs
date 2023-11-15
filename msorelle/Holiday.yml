@@ -60,7 +60,10 @@ collections:
       name: Holiday
       start_date: 11/13
       end_date: 12/31
-    imdb_list: https://www.imdb.com/list/ls000096828/
+    imdb_list: 
+      - https://www.imdb.com/list/ls000096828/
+      - https://www.imdb.com/list/ls562982883/
+      - https://www.imdb.com/list/ls520133680/
   # New Year's Day Movies:
   #   template:
   #     name: Holiday
