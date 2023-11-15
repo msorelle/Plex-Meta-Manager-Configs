@@ -64,10 +64,10 @@ collections:
       - https://trakt.tv/users/tass22/lists/hallmark-lifetime-christmas-movies-2021
       - https://trakt.tv/users/midnitewolf/lists/christmas-premieres-2023
       - https://trakt.tv/users/midnitewolf/lists/tubi-amazon-netflix-christmas-premieres-2023
-    imdb_list: 
-      - https://www.imdb.com/list/ls000096828/
-      - https://www.imdb.com/list/ls562982883/
-      - https://www.imdb.com/list/ls520133680/
+#    imdb_list: 
+#      - https://www.imdb.com/list/ls000096828/
+#      - https://www.imdb.com/list/ls562982883/
+#      - https://www.imdb.com/list/ls520133680/
   # New Year's Day Movies:
   #   template:
   #     name: Holiday
