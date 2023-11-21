@@ -107,7 +107,7 @@ collections:
     url_poster: https://i.imgur.com/tOujJnS.jpg
     url_background: https://i.imgur.com/CUIrEWQ.jpg
         
-  Kristin's Super Special Christmas Movies:
+  Kristins Super Special Christmas Movies:
     trakt_list: https://trakt.tv/users/kristin-webskills-net/lists/all-i-want-for-christmas?sort=rank,asc
     sync_mode: sync
     smart_label: critic_rating.desc
