@@ -107,6 +107,14 @@ collections:
     url_poster: https://i.imgur.com/tOujJnS.jpg
     url_background: https://i.imgur.com/CUIrEWQ.jpg
         
+  Kristin's Super Special Christmas Movies:
+    trakt_list: 
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_Kristin Super Special Christmas
+    summary: Kristin's collection of Christmas Movies
+    url_poster: https://i.imgur.com/bk1wKzd.png
+    url_background: https://i.imgur.com/CUIrEWQ.jpg
   # Parody Movie Collection:
   #   trakt_list: https://trakt.tv/users/hdlists/lists/top-50-parody-movies-of-all-time
   #   sync_mode: sync
